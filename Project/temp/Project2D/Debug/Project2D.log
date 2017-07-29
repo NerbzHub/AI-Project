@@ -1,0 +1,25 @@
+﻿  StateMove.cpp
+d:\aie\project\project2d\statemove.cpp(20): error C2065: 'm_BehaviourList': undeclared identifier
+d:\aie\project\project2d\statemove.cpp(20): error C2228: left of '.size' must have class/struct/union
+  d:\aie\project\project2d\statemove.cpp(20): note: type is 'unknown-type'
+  Player.cpp
+d:\aie\project\project2d\edge.h(6): error C2143: syntax error: missing ';' before '*'
+d:\aie\project\project2d\edge.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\aie\project\project2d\edge.h(6): error C2238: unexpected token(s) preceding ';'
+d:\aie\project\project2d\heap.h(22): error C3861: 'GetParentIndex': identifier not found
+d:\aie\project\project2d\astar.h(36): error C2371: 'AStar::m_OpenList': redefinition; different basic types
+  d:\aie\project\project2d\astar.h(18): note: see declaration of 'AStar::m_OpenList'
+  FleeBehaviour.cpp
+  DecisionTree.cpp
+d:\aie\project\project2d\decisiontree.cpp(27): error C2143: syntax error: missing ';' before '}'
+  BaseDecision.cpp
+d:\aie\project\project2d\basedecision.cpp(6): error C2600: 'BaseDecision::BaseDecision': cannot define a compiler-generated special member function (must be declared in the class first)
+d:\aie\project\project2d\basedecision.cpp(11): error C2600: 'BaseDecision::~BaseDecision': cannot define a compiler-generated special member function (must be declared in the class first)
+  AStar.cpp
+d:\aie\project\project2d\edge.h(6): error C2143: syntax error: missing ';' before '*'
+d:\aie\project\project2d\edge.h(6): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\aie\project\project2d\edge.h(6): error C2238: unexpected token(s) preceding ';'
+d:\aie\project\project2d\heap.h(22): error C3861: 'GetParentIndex': identifier not found
+d:\aie\project\project2d\astar.h(36): error C2371: 'AStar::m_OpenList': redefinition; different basic types
+  d:\aie\project\project2d\astar.h(18): note: see declaration of 'AStar::m_OpenList'
+d:\aie\project\project2d\astar.cpp(15): fatal error C1903: unable to recover from previous error(s); stopping compilation
